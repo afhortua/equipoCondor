@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Caldas</string>
+    <string name="PointOfInterest1">Manizales.
+        Ciudad ubicada en el centro occidente de Colombia. Forma parte de la llamada Región paisa y del llamado Triángulo de oro. Fundada en 1849 por colonos antioqueños, hoy es una ciudad con gran actividad económica, industrial, cultural y turística.</string>
+    <string name="PointOfInterest2">Parque los Nevados.
+        Es conocido por sus volcanes nevados, glaciares, lagos y bosques. El volcán activo Nevado del Ruiz se encuentra en el norte. Más al sur está el lago Verde de color esmeralda, el lago Otún lleno de truchas y el Nevado del Tolima con su cumbre cubierta de nieve. El parque alberga colibríes, águilas, loros y cóndores. Tiene altas palmas de cera y frailejones.</string>
+    <string name="PointOfInterest3">Zona Centro.
+       Región Integrada por los municipios de Chinchiná y Palestina, donde predominan los sembrados de café adémas de ser una región productora de citricos. Alli se construirá Aeropalestina,aeropuerto de ultima generación y polo de desarrollo.</string>
+    <string name="PointOfInterest4">Zona Oriente.
+       Región donde predominan los sembrados de Pino y café. Debido a su conexión con la capital Bogotá , está región aporta ampliamente a la economia del Deparatamento. El municipio de la Dorada se constituye como el principal polo de desarrollo,debido a su ubicación a orillas del rio Magdalena.</string>
+    <string name="PointOfInterest5">Salamina.
+       Municipio patrimonio de Colombia.Pueblo paisa, con arraigada cultura del denominado viejo Caldas. Ubicada A 3 horas de Manizales, la capital del departamento. Se le conoce como la «Ciudad Luz» ya que ha sido cuna de «ilustres» pensadores, poetas y escritores.</string>
+
+</resources>

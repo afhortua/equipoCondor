@@ -1,0 +1,35 @@
+[
+  {
+    "title": " Parque Nacional Natural Los Nevados",
+    "excerpt": "se encuentra ubicado en la Cordillera Central en la región Andina de los Andes colombianos. Su superficie hace parte de los departamentos de Tolima, Caldas, Risaralda y Quindío, estando repartido entre los municipios de Manizales, Villamaría, Santa Rosa de Cabal, Pereira, Salento, Villahermosa, Anzoátegui, Santa Isabel, Murillo, Ibagué y Casabianca. ",
+    "temp": "Su temperatura oscila entre -3 y 14 °C",
+    "image": "R.drawable.pnn.jpg"
+  },
+  {
+    "title": "Chinchiná",
+    "excerpt": "Chinchiná es un municipio colombiano ubicado en el Departamento de Caldas, a 18 km de la capital Manizales. Cuenta con 51.280 habitantes,3\u200B su extensión territorial es de 112.4 km² y en sus territorios se cultiva café para exportación. ",
+    "temp": "Su temperatura oscila entre 17 y 26 °C",
+    "image": "R.drawable.pnn.jpg"
+  },
+  {
+    "title": "Salamina",
+    "excerpt": "Salamina es un municipio colombiano en el departamento de Caldas. La población fue fundada en 1825, Salamina es conocida como \"La ciudad luz\" de Caldas pues de allí han salido numerosos poetas, músicos actores y escritores. ",
+    "temp": "Su temperatura oscila entre 20 y 26 °C",
+    "image": "R.drawable.pnn.jpg"
+  },
+  {
+    "title": "Corredor Polaco Catedral Basílica De Manizales",
+    "excerpt": "Dentro de las diversas construcciones religiosas pertenecientes a la Iglesia Católica que existen en Colombia, es de particular y significativa notoriedad la de la Catedral Basílica De Nuestra Señora Del Rosario De Manizales por varias razones: la primera, es iglesia más elevada de todo el territorio colombiano con sus más de cien metros de altura; segunda, tiene una capacidad para aproximadamente cinco mil (5.000) personas en sus dos mil trescientos metros cuadrados (2.300 mts2) de área, lo cual dice mucho por sí solo de la magnitud de esta estructura y muchas características más de interés local, regional, nacional e internacional.",
+    "temp": "Su temperatura oscila entre 14 y 20 °C",
+    "image": "R.drawable.pnn.jpg"
+  },
+  {
+    "title": "Iglesia de Nuestra Senora Del Rosario",
+    "excerpt": "La Catedral Basílica Metropolitana Nuestra Señora del Rosario de Manizales es un templo católico, emplazado frente a la Plaza de Bolívar, en la ciudad de Manizales, Colombia. Con 115 m de altura desde la base del templo sobre la carrera 22, es la catedral más alta de Colombia , este dato se obtiene tras la retirada de la cruz colocada en 1992 de aluminio, y la instalada de una nueva cruz con un cristo en el 2017. ",
+    "temp": "Su temperatura oscila entre 14 y 20 °C",
+    "image": "R.drawable.pnn.jpg"
+  }
+]
+
+
+
